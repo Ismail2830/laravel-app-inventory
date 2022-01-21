@@ -12,8 +12,8 @@
 ```
 ## Installation Steps:
 ```
-- git clone https://github.com/sanz/laravel-inventory.git
-- cd laravel-inventory
+- git clone https://github.com/Ismail2830/laravel-app-inventory.git
+- cd laravel-app-inventory
 - composer install
 - cp .env.example .env
 - php artisan migrate
